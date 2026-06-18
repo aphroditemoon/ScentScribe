@@ -11,9 +11,8 @@
 ---
 
 ## Application Preview
-```markdown
 ![ScentScribe Demo](ScentScribeDemo.jpeg)
-```
+
 ## Overview
 
 ScentScribe was built as a smart fragrance companion that connects personal lifestyle habits, perfume data, weather conditions, and AI assisted recommendation logic into one mobile experience. The application allows users to store their perfume collection, track how a fragrance performs throughout the day, understand which scents fit current weather conditions, and discover possible layering combinations.
