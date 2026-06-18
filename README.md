@@ -12,7 +12,7 @@
 
 ## Application Preview
 ```markdown
-![ScentScribe Demo](ScentScribeDemo.png)
+![ScentScribe Demo](ScentScribeDemo.jpeg)
 ```
 ## Overview
 
