@@ -1,0 +1,193 @@
+{
+  "version": "1.0.0",
+  "notes_database": {
+    "citrus": {
+      "category": "top",
+      "emoji": "🍋",
+      "description": "Bright, zesty opening note",
+      "families": ["fresh", "aquatic", "fougere"],
+      "weather_boost": {"hot": 1.3, "humid": 0.9},
+      "longevity_hours": 1.5
+    },
+    "bergamot": {
+      "category": "top",
+      "emoji": "🍊",
+      "description": "Earl Grey tea vibe, citrus with floral edge",
+      "families": ["fresh", "chypre", "fougere"],
+      "longevity_hours": 2.0
+    },
+    "grapefruit": {
+      "category": "top",
+      "emoji": "🍊",
+      "description": "Clean, crisp, slightly bitter citrus",
+      "families": ["fresh", "aquatic"],
+      "longevity_hours": 1.0
+    },
+    "rose": {
+      "category": "heart",
+      "emoji": "🌹",
+      "description": "Queen of flowers — romantic and timeless",
+      "families": ["floral", "oriental", "chypre"],
+      "longevity_hours": 4.0
+    },
+    "jasmine": {
+      "category": "heart",
+      "emoji": "🌸",
+      "description": "Intoxicating white floral, slightly indolic",
+      "families": ["floral", "oriental", "chypre"],
+      "longevity_hours": 4.5
+    },
+    "iris": {
+      "category": "heart",
+      "emoji": "💜",
+      "description": "Powdery, rooty, violet-like elegance",
+      "families": ["powdery", "floral", "chypre"],
+      "longevity_hours": 5.0
+    },
+    "sandalwood": {
+      "category": "base",
+      "emoji": "🪵",
+      "description": "Creamy, milky, warm wood",
+      "families": ["woody", "oriental", "floral"],
+      "longevity_hours": 10.0
+    },
+    "oud": {
+      "category": "base",
+      "emoji": "🌿",
+      "description": "Resinous, smoky, animalic sacred wood",
+      "families": ["oriental", "woody"],
+      "longevity_hours": 14.0
+    },
+    "vetiver": {
+      "category": "base",
+      "emoji": "🌾",
+      "description": "Earthy, smoky, rootsy dry-down",
+      "families": ["woody", "fougere", "chypre"],
+      "longevity_hours": 12.0
+    },
+    "vanilla": {
+      "category": "base",
+      "emoji": "🍦",
+      "description": "Warm, sweet, comforting gourmand",
+      "families": ["oriental", "gourmand"],
+      "longevity_hours": 8.0
+    },
+    "musk": {
+      "category": "base",
+      "emoji": "⚪",
+      "description": "Skin-close, clean, second-skin effect",
+      "families": ["fresh", "floral", "powdery"],
+      "longevity_hours": 9.0
+    },
+    "ambergris": {
+      "category": "base",
+      "emoji": "⚗️",
+      "description": "Marine warmth, smooth, skin-enhancing",
+      "families": ["oriental", "aquatic"],
+      "longevity_hours": 11.0
+    },
+    "tonka_bean": {
+      "category": "base",
+      "emoji": "🫘",
+      "description": "Almond-like, warm, cozy sweetness",
+      "families": ["oriental", "gourmand"],
+      "longevity_hours": 8.5
+    },
+    "cedar": {
+      "category": "base",
+      "emoji": "🌲",
+      "description": "Dry, pencil-shaving, clean wood",
+      "families": ["woody", "fougere", "fresh"],
+      "longevity_hours": 9.0
+    },
+    "patchouli": {
+      "category": "base",
+      "emoji": "🍃",
+      "description": "Earthy, mossy, slightly dark",
+      "families": ["oriental", "woody", "chypre"],
+      "longevity_hours": 13.0
+    },
+    "labdanum": {
+      "category": "base",
+      "emoji": "🌑",
+      "description": "Resinous, leathery, sweet amber",
+      "families": ["oriental", "chypre"],
+      "longevity_hours": 12.0
+    },
+    "neroli": {
+      "category": "top",
+      "emoji": "🌺",
+      "description": "Orange blossom — floral citrus bridge",
+      "families": ["fresh", "floral"],
+      "longevity_hours": 2.5
+    },
+    "lavender": {
+      "category": "heart",
+      "emoji": "💜",
+      "description": "Herbal, calming, classic fougere pillar",
+      "families": ["fougere", "fresh", "powdery"],
+      "longevity_hours": 3.5
+    },
+    "saffron": {
+      "category": "top",
+      "emoji": "🧡",
+      "description": "Spicy, leathery, exotic warmth",
+      "families": ["oriental"],
+      "longevity_hours": 3.0
+    },
+    "cardamom": {
+      "category": "heart",
+      "emoji": "🫙",
+      "description": "Spiced, slightly minty, aromatic warmth",
+      "families": ["oriental", "woody"],
+      "longevity_hours": 4.0
+    },
+    "marine_notes": {
+      "category": "top",
+      "emoji": "🌊",
+      "description": "Clean sea breeze, aquatic ozonic",
+      "families": ["aquatic", "fresh"],
+      "longevity_hours": 1.5
+    },
+    "cherry": {
+      "category": "top",
+      "emoji": "🍒",
+      "description": "Juicy, fruity, slightly boozy sweetness",
+      "families": ["gourmand", "floral"],
+      "longevity_hours": 2.0
+    },
+    "amber": {
+      "category": "base",
+      "emoji": "🍯",
+      "description": "Warm, resinous, honey-like sweetness",
+      "families": ["oriental", "gourmand", "woody"],
+      "longevity_hours": 10.0
+    },
+    "oakmoss": {
+      "category": "base",
+      "emoji": "🌿",
+      "description": "Damp forest floor, green mossy earthiness",
+      "families": ["chypre", "fougere"],
+      "longevity_hours": 11.0
+    },
+    "geranium": {
+      "category": "heart",
+      "emoji": "🌼",
+      "description": "Green, rosy, slightly minty floral",
+      "families": ["floral", "chypre", "fougere"],
+      "longevity_hours": 3.5
+    }
+  },
+  "family_descriptions": {
+    "fresh": "Clean, airy, uplifting scents. Best for daytime and warm weather.",
+    "oriental": "Rich, warm, exotic. Heavy base notes with incredible longevity.",
+    "woody": "Earthy, natural, grounded. From cedar pencils to sacred oud.",
+    "floral": "Nature's most romantic category. From delicate to opulent blooms.",
+    "aquatic": "Ocean-inspired, ozonic, clean. Effortless and democratic.",
+    "gourmand": "Edible, delicious, sweet. Vanilla, chocolate, caramel — wearable desserts.",
+    "fougere": "Aromatic, herbal, classic. The backbone of masculine fragrance.",
+    "chypre": "Sophisticated, mossy, complex. The definition of luxury.",
+    "green": "Fresh-cut grass, leafy, vegetal. Nature in a bottle.",
+    "powdery": "Soft, skin-like, retro. Think talcum, iris, makeup counter."
+  }
+}
