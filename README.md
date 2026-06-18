@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-ML%20Engine-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-**ScentScribe is an AI-powered fragrance lifestyle mobile application that helps users manage perfume collections, log scent-wearing experiences, receive weather-aware recommendations, and explore perfume layering through a premium mobile interface.**
+**ScentScribe is an AI powered fragrance lifestyle mobile application that helps users manage perfume collections, log scent wearing experiences, receive weather aware recommendations, and explore perfume layering through a premium mobile interface.**
 
 ---
 
@@ -16,9 +16,9 @@
 ```
 ## Overview
 
-ScentScribe was built as a smart fragrance companion that connects personal lifestyle habits, perfume data, weather conditions, and AI-assisted recommendation logic into one mobile experience. The application allows users to store their perfume collection, track how a fragrance performs throughout the day, understand which scents fit current weather conditions, and discover possible layering combinations.
+ScentScribe was built as a smart fragrance companion that connects personal lifestyle habits, perfume data, weather conditions, and AI assisted recommendation logic into one mobile experience. The application allows users to store their perfume collection, track how a fragrance performs throughout the day, understand which scents fit current weather conditions, and discover possible layering combinations.
 
-The project combines mobile app development, local database management, REST API integration, weather-based logic, machine learning concepts, profile personalization, and polished UI/UX design. Its main goal is to make fragrance selection feel more personal, practical, and data-driven while still maintaining an elegant and easy-to-use interface.
+The project combines mobile app development, local database management, REST API integration, weather based logic, machine learning concepts, profile personalization, and polished UI/UX design. Its main goal is to make fragrance selection feel more personal, practical, and data driven while still maintaining an elegant and easy to use interface.
 
 ---
 
@@ -29,7 +29,7 @@ ScentScribe focuses on four main goals:
 - Help users organize their perfume collection and wishlist.
 - Recommend fragrances based on weather, time of day, skin type, and user preferences.
 - Let users document scent performance through a personal journal.
-- Provide an AI-inspired fragrance ecosystem for recommendation, analysis, and layering exploration.
+- Provide an AI inspired fragrance ecosystem for recommendation, analysis, and layering exploration.
 
 ---
 
@@ -43,7 +43,7 @@ Users can add, edit, view, and remove perfumes from their personal collection. E
 
 Perfumes can be saved as wishlist items, allowing users to separate owned fragrances from scents they want to try in the future.
 
-### Weather-Based Recommendations
+### Weather Based Recommendations
 
 The app reads current weather conditions and recommends perfumes that match temperature, humidity, season, and time of day. This helps users choose scents that are more suitable for the environment.
 
@@ -123,7 +123,7 @@ The perfume detail screen shows complete information about a selected perfume. U
 
 ### Journal Screen
 
-The journal screen stores scent-wearing history. Users can review past logs, edit entries, delete entries, and understand how perfumes perform over time.
+The journal screen stores scent wearing history. Users can review past logs, edit entries, delete entries, and understand how perfumes perform over time.
 
 ### AI Screen
 
@@ -139,7 +139,7 @@ The profile screen allows users to update profile data, photo, bio, preferred sc
 
 ### 1. State Management Logic
 
-ScentScribe uses a provider-based state management structure. The main provider initializes the app, loads local data, manages navigation state, handles collection updates, refreshes weather data, and recalculates scent recommendations whenever needed.
+ScentScribe uses a provider based state management structure. The main provider initializes the app, loads local data, manages navigation state, handles collection updates, refreshes weather data, and recalculates scent recommendations whenever needed.
 
 Main file:
 
@@ -204,7 +204,7 @@ Recommendation factors include:
 - User preferred families
 - Preferred notes
 - Perfume rating
-- Feels-like temperature
+- Feels like temperature
 - Skin type
 - Rain or storm condition
 - Wind speed
@@ -240,7 +240,7 @@ lib/screens/add_journal_screen.dart
 
 ### 6. Perfume Image Logic
 
-The perfume image feature supports bottle images, placeholders, and network-based images. This helps each perfume card feel more visual and polished.
+The perfume image feature supports bottle images, placeholders, and network based images. This helps each perfume card feel more visual and polished.
 
 Main files:
 
@@ -285,7 +285,7 @@ GET  /api/analytics/stats
 
 ### 8. Machine Learning Server Logic
 
-The ML server uses Flask and scikit-learn to predict fragrance-weather compatibility and layering compatibility.
+The ML server uses Flask and scikit learn to predict fragrance weather compatibility and layering compatibility.
 
 Main files:
 
@@ -354,7 +354,7 @@ skin type
 - Flask
 - NumPy
 - Pandas
-- Scikit-learn
+- Scikit learn
 - Joblib
 
 ### External Service
