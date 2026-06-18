@@ -11,7 +11,7 @@
 ---
 
 ## Application Preview
-![ScentScribe Demo](ScentScribeDemo.jpeg)
+![ScentScribe Demo](ScentScribeDemo.png)
 
 ## Overview
 
