@@ -1,0 +1,62 @@
+{
+  "features": [
+    "temperature",
+    "humidity",
+    "base_note_count",
+    "heart_note_count",
+    "fresh",
+    "oriental",
+    "woody",
+    "floral",
+    "aquatic",
+    "gourmand",
+    "fougere",
+    "chypre",
+    "green",
+    "powdery",
+    "morning",
+    "afternoon",
+    "evening",
+    "night",
+    "spring",
+    "summer",
+    "autumn",
+    "winter",
+    "dry",
+    "normal",
+    "oily",
+    "combination"
+  ],
+  "feature_count": 26,
+  "families": [
+    "fresh",
+    "oriental",
+    "woody",
+    "floral",
+    "aquatic",
+    "gourmand",
+    "fougere",
+    "chypre",
+    "green",
+    "powdery"
+  ],
+  "times_of_day": [
+    "morning",
+    "afternoon",
+    "evening",
+    "night"
+  ],
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "skin_types": [
+    "dry",
+    "normal",
+    "oily",
+    "combination"
+  ],
+  "version": "1.0.0"
+}
